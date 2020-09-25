@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ThucPham"
+    }
+  },
+  "defaultProject": "ThucPham",
+  "cli": {
+    "analytics": "0db935a1-e849-438e-bd68-0810c6b46944"
+  }
 }
